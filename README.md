@@ -12,7 +12,7 @@
 
 💬 Ask me about: **Python**, **Flask**, **Arduino**, **MediaPipe**, **Kotlin**  
 📝 I love documenting my journey and sharing what I learn.  
-📫 How to reach me: **sevvalayyrk@gmail.com**
+📫 How to reach me: **sevvalayyuruk@gmail.com**
 
 ---
 
