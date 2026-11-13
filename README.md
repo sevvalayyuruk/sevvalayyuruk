@@ -1,18 +1,5 @@
-# Hello! I am Şevval 🌿
+# Hello! I am Şevval 
 
-## 🙋‍♀️ Who am I?
-🎓 I’m a Computer Engineering student at **Beykent University**.  
-💡 Passionate about combining **hardware and software** to build smart and creative systems.  
-🌱 Currently exploring **Python**, **Kotlin**, and **AI-supported embedded systems**.  
-🔭 I’m developing projects like:
-- Gesture-Controlled Smart Room 🏠  
-- MediaPipe-based Sign & Face Recognition ✋👤  
-- ERP/CRM Web Platform for ALLDENIMS 👕  
-- MapTour — a travel sharing app 🌍  
-
-💬 Ask me about: **Python**, **Flask**, **Arduino**, **MediaPipe**, **Kotlin**  
-📝 I love documenting my journey and sharing what I learn.  
-📫 How to reach me: **sevvalayyuruk@gmail.com**
 
 ---
 
